@@ -1,0 +1,4 @@
+Vamos fazer um site informativo relaciona à pesca onde iremos mostrar vários locais de pesca livre, 
+recomendar que utensílios levar num dia de pesca, independentemente das condições atmosféricas.
+Várias informações sobre peixes e regras básicas da pesca livre.
+Também podemos mostrar preços e onde comprar os utensílios para a pesca e talvez até informações sobre os mesmos.
